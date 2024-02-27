@@ -1,0 +1,128 @@
+[
+    {
+        "desc":"homepethic",
+        "name":"dipak firke",
+        "image":"src/images/1.jpeg"
+    },
+    {
+        "desc":"cancer speshalist",
+        "name":"vaibhav petadio",
+        "image":"src/images/2.jpeg"
+    },
+    {
+        "desc":"gyanac",
+        "name":"sonu suit",
+        "image":"src/images/3.jpeg"
+    },
+    {
+        "desc":"phijio therapist",
+        "name":"abhinav shukla",
+        "image":"src/images/4.jpeg"
+    },
+    {
+        "desc":"genaral sergean",
+        "name":"kaushal chabutre",
+        "image":"src/images/5.jpeg"
+    },
+    {
+        "desc":"gastrologist",
+        "name":"sushil pande",
+        "image":"src/images/6.jpeg"
+    },
+    {
+        "desc":"cardiologist",
+        "name":"kiran panda",
+        "image":"src/images/7.jpeg"
+    },
+    {
+        "desc":"dental",
+        "name":"milin pithode",
+        "image":"src/images/8.jpeg"
+    },
+    {
+        "desc":"rediologist",
+        "name":"uday samant",
+        "image":"src/images/9.jpeg"
+    },
+    {
+        "desc":"dermatologist",
+        "name":"amol patil",
+        "image":"src/images/10.jpeg"
+    },
+    {
+        "desc":"orthopedist",
+        "name":"dhanawant marathe",
+        "image":"src/images/11.jpeg"
+    },
+    {
+        "desc":"orthopedist",
+        "name":"rahul barhate",
+        "image":"src/images/4.jpeg"
+    },
+    {
+        "desc":"homepethic",
+        "name":"dipak firke",
+        "image":"src/images/1.jpeg"
+    },
+    {
+        "desc":"cancer speshalist",
+        "name":"vaibhav petadio",
+        "image":"src/images/2.jpeg"
+    },
+    {
+        "desc":"gyanac",
+        "name":"sonu suit",
+        "image":"src/images/3.jpeg"
+    },
+    {
+        "desc":"phijio therapist",
+        "name":"abhinav shukla",
+        "image":"src/images/4.jpeg"
+    },
+    {
+        "desc":"genaral sergean",
+        "name":"kaushal chabutre",
+        "image":"src/images/5.jpeg"
+    },
+    {
+        "desc":"gastrologist",
+        "name":"sushil pande",
+        "image":"src/images/6.jpeg"
+    },
+    {
+        "desc":"cardiologist",
+        "name":"kiran panda",
+        "image":"src/images/7.jpeg"
+    },
+    {
+        "desc":"dental",
+        "name":"milin pithode",
+        "image":"src/images/8.jpeg"
+    },
+    {
+        "desc":"rediologist",
+        "name":"uday samant",
+        "image":"src/images/9.jpeg"
+    },
+    {
+        "desc":"dermatologist",
+        "name":"amol patil",
+        "image":"src/images/10.jpeg"
+    },
+    {
+        "desc":"orthopedist",
+        "name":"dhanawant marathe",
+        "image":"src/images/11.jpeg"
+    },
+    {
+        "desc":"orthopedist",
+        "name":"rahul barhate",
+        "image":"src/images/4.jpeg"
+    },
+    {
+        "desc":"dermatologist",
+        "name":"amol patil",
+        "image":"src/images/10.jpeg"
+    }
+   
+]
